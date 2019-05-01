@@ -121,8 +121,8 @@ int task_count = 0;
 
 uint8_t config;
 
-const char *ssid = "@HomeB702";
-const char *password = "3gvxv9fpnfpsur";
+const char *ssid = "<sidid goes here>";
+const char *password = "<wifi password here>";
 
 // foreward delcare functions passed to task constructors now required
 void ticker_handler();
